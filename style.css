@@ -44,7 +44,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
-    border: 2px solid rgba(0, 255, 255,.5) ;
+    border: 2px solid white ;
     box-shadow: white;
     width: 400px;
     margin-bottom:8px;
