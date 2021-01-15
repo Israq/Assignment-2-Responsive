@@ -33,3 +33,42 @@
 .card-footer-head {
     color: #FABE4C;
 }
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 2px solid rgba(0, 255, 255,.5) ;
+    box-shadow: white;
+    width: 400px;
+    margin-bottom:8px;
+    
+    
+    
+}
+.cat1{
+    background-color:white;
+    
+}
+.cat2{
+    background-color: white;
+    margin-top: 10px;
+    
+}
+.cat3{
+    background-color: white;
+    margin-top: 10px;
+}
+}
+.detail{
+
+    padding-left: 10px;
+    margin-left: 10px;
+
+}
