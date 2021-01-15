@@ -1,0 +1,35 @@
+.nav-link{
+    font-weight: bolder;
+    color: #3C3C3C;
+}
+.Top-banner{
+    margin-top: 10%;
+   
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    
+    
+    padding-left:1%;
+}
+.half-width img {
+    width: 100%;
+}
+
+.highlight{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.btn-outline-primary{
+    color: white;
+    background-color: #2E8B57;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+.card-footer-head {
+    color: #FABE4C;
+}
